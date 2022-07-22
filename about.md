@@ -1,8 +1,9 @@
 ---
-title: This will be used as the title-tag of the page head
+title: About Disease PSA
 ---
 
-hello
+This is a site to provide information about the pandemics and related diseases. 
+
 =====
 
-**You are here!**
+**This site is written by a concerned person with a non-health STEM background**
